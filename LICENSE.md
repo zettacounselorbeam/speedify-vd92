@@ -1,4 +1,4 @@
-
+Speedify ultimate Extension: L2TP-support & IKEv2-support is the best Speedify extension, featuring L2TP-support and IKEv2-support. Secure, fast, and optimized for privacy.
 
 
 
